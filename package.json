@@ -1,0 +1,21 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "Vuepress quick starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumpalottahigh/vuepress-starter.git"
+  },
+  "keywords": [],
+  "author": "jumpalottahigh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jumpalottahigh/vuepress-starter/issues"
+  },
+  "homepage": "https://github.com/jumpalottahigh/vuepress-starter#readme"
+}
