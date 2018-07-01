@@ -1,6 +1,6 @@
 # A Vuepress quick start template.
 
-#### Preview: https://affectionate-franklin-5d3670.netlify.com/
+#### Preview: https://vuepress-starter.netlify.com/
 
 1) Install
 
